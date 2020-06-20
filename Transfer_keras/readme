@@ -1,1 +1,2 @@
-
+transl.py 是 keras API 在VGG16上的迁移学习demo
+input_train & mmodel 是不用迁移学习的demo
